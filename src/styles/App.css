@@ -1,0 +1,66 @@
+html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.nav {
+    position: fixed;
+    z-index: 1;
+    top: 0px;
+    padding-top: 25px;
+    width: 100%;
+    background-color: black !important;
+    font-family: "Bokor", system-ui;
+}
+
+.navbar-brand {
+    text-transform: uppercase;
+    font-size: 35px;
+    letter-spacing: 3px;
+    cursor: default !important;
+
+}
+
+a:-webkit-any-link {
+    color: #424842 !important;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+    color: #b5c4c7 !important;
+    transform: scale(1.2);
+    transition: transform 0.5s;
+}
+
+
+.nav-link {
+    font-size: 20px;
+}
+
+.bi-cart3 {
+    font-size: 20px;
+    color: #424842;
+}
+
+@media (max-width: 990px) {
+    .nav-link:hover{
+        color: #b5c4c7 !important;
+        transition: color 0.5s;
+        transform: none !important;
+    }
+    
+}
+
+@media (max-width: 550px) {
+    
+
+    .nav a{
+        margin-left: 15px;
+    }
+}

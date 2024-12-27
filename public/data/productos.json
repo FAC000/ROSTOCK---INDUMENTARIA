@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "talle": "M - L - XL - XXL ",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sequi blanditiis quibusdam quod architecto voluptates quis veritatis consectetur ullam odit.",
+        "categoria": "pantalones",
+        "nombre": "Joggin Cargo Prisma",
+        "imagen": "pantalon1.webp",
+        "precio": 18000,
+        "stock": 3
+    },
+    {
+        "id": 2,
+        "talle": "M - L - XL - XXL ",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sequi blanditiis quibusdam quod architecto voluptates quis veritatis consectetur ullam odit.",
+        "categoria": "buzos",
+        "nombre": "Hoodie Oversize Corp",
+        "imagen": "buzo1.webp",
+        "precio": 28000,
+        "stock": 3
+    },
+    {
+        "id": 3,
+        "talle": "M - L - XL - XXL ",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sequi blanditiis quibusdam quod architecto voluptates quis veritatis consectetur ullam odit.",
+        "categoria": "remeras",
+        "nombre": "Remera Oversize Reck",
+        "imagen": "remera2.webp",
+        "precio": 10000,
+        "stock": 3
+    },
+    {
+        "id": 4,
+        "talle": "M - L - XL - XXL ",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sequi blanditiis quibusdam quod architecto voluptates quis veritatis consectetur ullam odit.",
+        "categoria": "pantalones",
+        "nombre": "Jean Cargo Volsamo",
+        "imagen": "pantalon2.webp",
+        "precio": 22000,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "talle": "M - L - XL - XXL ",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sequi blanditiis quibusdam quod architecto voluptates quis veritatis consectetur ullam odit.",
+        "categoria": "buzos",
+        "nombre": "Hoodie Livuano Vaco",
+        "imagen": "buzo6.webp",
+        "precio": 19000,
+        "stock": 3
+    },
+    {
+        "id": 6,
+        "talle": "M - L - XL - XXL ",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sequi blanditiis quibusdam quod architecto voluptates quis veritatis consectetur ullam odit.",
+        "categoria": "remeras",
+        "nombre": "Remera Oversize Hustle",
+        "imagen": "remera3.webp",
+        "precio": 10000,
+        "stock": 3
+    },
+    {
+        "id": 7,
+        "talle": "M - L - XL - XXL ",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sequi blanditiis quibusdam quod architecto voluptates quis veritatis consectetur ullam odit.",
+        "categoria": "pantalones",
+        "nombre": "Jean Baggy Treatment",
+        "imagen": "pantalon3.jpg",
+        "precio": 18000,
+        "stock": 3
+    },
+    {
+        "id": 8,
+        "talle": "M - L - XL - XXL ",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sequi blanditiis quibusdam quod architecto voluptates quis veritatis consectetur ullam odit.",
+        "categoria": "buzos",
+        "nombre": "Hoodie Oversize California",
+        "imagen": "buzo2.webp",
+        "precio": 28000,
+        "stock": 3
+    },
+    {
+        "id": 9,
+        "talle": "M - L - XL - XXL ",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sequi blanditiis quibusdam quod architecto voluptates quis veritatis consectetur ullam odit!",
+        "categoria": "remeras",
+        "nombre": "Remera Oversize Paranoid",
+        "imagen": "remera4.webp",
+        "precio": 10000,
+        "stock": 3
+    },
+    {
+        "id": 10,
+        "talle": "M - L - XL - XXL ",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sequi blanditiis quibusdam quod architecto voluptates quis veritatis consectetur ullam odit!",
+        "categoria": "pantalones",
+        "nombre": "Jean Baggy Carpenter",
+        "imagen": "pantalon5.jpg",
+        "precio": 18000,
+        "stock": 3
+    },
+    {
+        "id": 11,
+        "talle": "M - L - XL - XXL ",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sequi blanditiis quibusdam quod architecto voluptates quis veritatis consectetur ullam odit!",
+        "categoria": "buzos",
+        "nombre": "Hoodie Stranger Bla ",
+        "imagen": "buzo1.png",
+        "precio": 28000,
+        "stock": 3
+    },
+    {
+        "id": 12,
+        "talle": "M - L - XL - XXL ",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sequi blanditiis quibusdam quod architecto voluptates quis veritatis consectetur ullam odit.",
+        "categoria" : "remeras",
+        "nombre": "Remera Skier Gray",
+        "imagen": "remera5.webp",
+        "precio": 10000,
+        "stock": 3
+    }
+]
