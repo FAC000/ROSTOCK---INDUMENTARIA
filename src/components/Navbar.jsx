@@ -7,32 +7,39 @@ import { CartIcon } from './CartIcon';
 
 export function Navegacion() {
 
-  const esconder = () =>{
+  const esconder = () => {
     const navegar = document.getElementById("navbar-collapse")
-    navegar.classList.remove ('show')
-    
+    navegar.classList.remove('show')
+
   }
- 
+
 
   return (
     <Navbar expand="lg" className="bg-body-tertiary nav">
       <Container>
-      <Navbar.Toggle aria-controls="basic-navbar-nav" />
-          <Navbar.Brand href="#home">Rostok</Navbar.Brand>
-       
+        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Brand href="#home">Rostok</Navbar.Brand>
 
-        
+
+
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="me-auto">
+          <Nav className="me-auto navNav">
 
-            <Link className='nav-link' href="#home" to={'/'} onClick={esconder} >Home</Link>
+            <Link to={'/'}>
+              <h1 href="#home" onClick={esconder} > </h1>
+              Home
+            </Link>
 
-            <Link className='nav-link' to={'/productos'} onClick={esconder}>Productos</Link>
+
+            <Link to={'/productos'}>
+              <h1 href="#productos" onClick={esconder}></h1>
+              Productos
+            </Link>
 
           </Nav>
         </Navbar.Collapse>
         <CartIcon />
       </Container>
-    </Navbar>
+    </Navbar >
   );
 }

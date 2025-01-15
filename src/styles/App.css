@@ -39,8 +39,15 @@ a:-webkit-any-link {
 }
 
 
-.nav-link {
+.navNav {
     font-size: 20px;
+    display: flex;
+    gap: 20px
+    ;
+}
+
+.navNav  :focus {
+    color: red !important;
 }
 
 .bi-cart3 {

@@ -11,7 +11,7 @@ import { Toaster } from 'react-hot-toast';
 
 export function App() {
   return (
-    <>
+    
       <BrowserRouter>
         <CarritoProvider>
           <Navegacion />
@@ -20,6 +20,7 @@ export function App() {
             position="bottom-right"
             reverseOrder={false}
           />
+          
           <Routes>
 
             <Route path='/' element={<Home />} />
@@ -32,7 +33,7 @@ export function App() {
         </CarritoProvider>
       </BrowserRouter>
 
-    </>
+    
   )
 }
 
